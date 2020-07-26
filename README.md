@@ -16,6 +16,3 @@ In this course:
 - Configure automatic tests and a continuous integration workflow with Docker Cloud.
 
 
-Check out the original course: 
-https://www.udemy.com/docker-containers
-
